@@ -4,7 +4,7 @@ A simple and responsive e-commerce website built with React. Users can browse pr
 
 ## Live Demo
 
-> [View the website](https://your-live-site-url.com)
+> [View the website](https://e-commerce-website-react-rho.vercel.app/)
 
 ---
 
